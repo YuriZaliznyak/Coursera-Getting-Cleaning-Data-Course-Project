@@ -1,5 +1,5 @@
 This repo contains script run_analysis.R, which solves the course project problem of Coursera's "Getting and cleaning the data" 
-course.
+course. For project description see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones, for raw data description consult README.txt file from  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 1. The data for activity, subject and features is loaded from test and train datafiles into table variables activity_test, activity_train, 
 subject_test, subject_train, features_test, features_train. Feature names and activity labels are also loaded into tables feature_names 
