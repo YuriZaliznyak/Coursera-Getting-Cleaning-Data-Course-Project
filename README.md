@@ -1,6 +1,6 @@
 ##This is a course project files for Coursera's "Getting and Cleaning the Data" course.
 
-run_analysis.R script processes the data obtained from mobile phones in order to recognize automatically current activity of phone holder based on accelerometer and position sensors. Description of the project can be found elsewhere, for details see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Data being processed together with the detailed description is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+This rfepository contains run_analysis.R script, which processes the data obtained from mobile phones in order to recognize automatically current activity of phone holder based on accelerometer and position sensors. Description of the project can be found elsewhere, for details see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Data being processed together with the detailed description is to be downloaded from  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 The script makes the following:
 
@@ -16,3 +16,5 @@ Library "data.table" is required to run the script, thus make sure that you have
 installed in your R interpreter. As a result or run, a file "tidy_data.txt" containing tidy 
 dataset with the average of each variable for each activity and each subject will appear in the 
 current directory.
+
+Detailed description of variables and calls in run_analysis.R is placed into codebook.md file located in this repository.
