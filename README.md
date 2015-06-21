@@ -1,6 +1,6 @@
 ##This is a course project files for Coursera's "Getting and Cleaning the Data" course.
 
-This rfepository contains run_analysis.R script, which processes the data obtained from mobile phones in order to recognize automatically current activity of phone holder based on accelerometer and position sensors. Description of the project can be found elsewhere, for details see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Data being processed together with the detailed description is to be downloaded from  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
+This repository contains run_analysis.R script, which processes the data obtained from mobile phones in order to recognize automatically current activity of phone holder based on accelerometer and position sensors. Description of the project can be found elsewhere, for details see http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Data being processed together with the detailed description is to be downloaded from  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 The script makes the following:
 
